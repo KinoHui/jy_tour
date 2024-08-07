@@ -2,7 +2,6 @@ module github.com/jyhdashuaibi/jy_tour
 
 go 1.22.5
 
-require golang.org/x/text v0.16.0
 
 require (
 	github.com/inconshreveable/mousetrap v1.1.0 // indirect
